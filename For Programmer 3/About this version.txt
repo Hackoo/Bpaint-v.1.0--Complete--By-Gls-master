@@ -1,0 +1,14 @@
+The Bpaints series is created and modifies by kvc...
+The version 1.0 of this Batch application was fully dependent on 'fn.dll' plugin, which is very amazing plugin. Faster response & more efficient in repeated calling...
+while version 2.0 uses 'batbox.exe' as its plugin also... as it is efficient in executing multiple commands at once.
+And ver. 2.0 is more faster, efficient for CPU, easy to use, and you can make your Pics. in Bpaints and export them in any portable file, which can be read with any of the plugin specified...
+e.g.	1) You can export a *.batbox file... which contains the code, that can be executed by 'batbox.exe' plugin.
+		2) You can export a *.fn file... which contains the code, that can be executed by 'fn.dll' plugin.
+		3) You can export a *.Bim file... which contains the code, that can be executed by 'Bpaints'. [In real, this is raw file which can be opened in Bpaints again and again,for furthur manuplation]
+		4) You can export a *.typo file... which contains the simple text (excluding colors), this file can be displayed on cmd console directly using 'type' command.
+
+I hope, you like my work in the field of batch programming... For any Query about app. or any appreciation, contact me @
+karanveerchouhan@gmail.com
+
+also visit : https://batchprogrammers.blogspot.com
+#TheBATeam
