@@ -1,0 +1,55 @@
+This Bpaint.bat file Uses 'Fn.dll' (cmd extension) file to enhance cmd experience...and it helps in
+adding more features to cmd console...
+
+This "Bpaint.bat" is fully dependent on 'fn.dll' so, don't try to run this application without fn.dll as it definately crashes...
+
+
+Licence: This file comes under the GNU licence terms with no warrenty...and you can easily use it or its parts anywhere...with your intelligence.
+
+Warning: Don't use this file for any illegal purpose...as only you will be responsible then...
+
+
+
+About the Application:
+
+This application is created by Kvc (karanveer chouhan), and it takes 20-25 days of hardwork to complete it.
+This is just basic application....so, don't expect something very advanced from it...
+
+How to use??
+Two Diffrent saving methods...
+
+1. I Don't Care...[f]
+
+	: 'F' Stands for faster saving...
+
+2. Minimum Size...[s]
+
+	: 's' Stands for Slower Saving...but removes unwanted repeating values...that may occured during clicking on same place for a long time...
+
+Sorting:
+On enabling Sorting feature...your variables are sorted in increasing order of rows so, it will be easier to load elements when loaded in cmd console...
+Turn this feature off..if you are working with Animations...as..it may distort the animation.
+
+Grid:
+You can enable grid, by clicking on grid menu and selecting your desired option...this may be useful to you when you are trying to make an animation with lot of straight lines...or using it can make your animation more symmetric.
+
+Console size:
+You can change the size of your console as it depends on your requirement of console size.
+
+
+
+
+
+Features:
+You can do following things with this awesome batch file...
+
+1. GUI designing of other applications...(e.g. calculator,games etc.)
+2. Making GUI Components of other applications...(e.g. Save As dialog box,Open Dialog Box,MsgBox in cmd console...etc.)
+3. Starting animation of any other batch application...
+4. Encripting your message/batch file... (partially effective)
+5. you can make Presentaions with this application... (watch video on youtube for this)
+6. Make your batch programs more beautiful and more professional by adding diffrent colors...
+
+
+If you liked my work...do tell me @ karanveerchouhan@gmail.com
+chk my blog, for more amazing batch files... batchprogrammers.blogspot.in

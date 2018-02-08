@@ -1,0 +1,2 @@
+use batbox.exe for version 2
+cuz it can take multiple commands in single line

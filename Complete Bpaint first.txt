@@ -1,0 +1,6 @@
+Bpaint is not completed yet...
+
+1. help menu
+2. Min. row and columns adjustion
+3. the diagonal line feature is not allowing to make reverse lines...(chk)
+4.
