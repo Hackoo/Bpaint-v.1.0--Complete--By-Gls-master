@@ -1,0 +1,52 @@
+80 25
+30 10 1 2 07 Box
+9 3 12 43 07 Box
+7 7 15 59 07 Box
+40 13 1 1 07 Box
+40 12 3 24 07 Box
+29 8 10 31 07 Box
+20 4 8 33 07 Box
+56 7 8 12 07 Box
+32 4 7 16 0e Box
+21 8 11 43 ee Box
+C 12 15 ee x
+C 3 16 ee x
+C 4 17 ee x
+C 5 18 ee x
+C 6 19 ee x
+C 7 20 ee x
+C 8 21 ee x
+C 9 22 ee x
+C 10 23 ee x
+C 11 24 ee x
+C 12 25 ee x
+C 13 26 ee x
+C 14 27 ee x
+C 15 28 ee x
+C 16 29 ee x
+C 17 30 ee x
+C 18 31 ee x
+C 19 32 ee x
+C 20 33 ee x
+C 21 34 ee x
+C 22 35 ee x
+C 23 36 ee x
+C 24 37 ee x
+C 11 38 ea x
+C 12 69 ea x
+C 19 71 ea x
+C 21 54 ea x
+37 8 1 1 ea Box
+14 7 12 50 ea Box
+C 2 6 ea g
+C 2 7 ea g
+C 2 8 ea f
+C 2 9 ea f
+C 2 10 ea g
+C 2 11 ea f
+C 2 12 ea g
+C 2 13 ea g
+C 14 7 ea b
+C 14 9 ea 6
+C 14 8 ea D
+;end
